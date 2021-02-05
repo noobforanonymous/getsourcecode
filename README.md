@@ -9,9 +9,8 @@ apt upgrade
 pkg install python -y
 pkg install git -y
 pip install lolcat
-git clone https://github.com/noobforanonymous/getsourcecode
-cd getsourcecode
-ls
+git clone https://github.com/noobforanonymous/getsourcecode && cd getsourcecode && ls 
+
 python sourcecode.py
 
 
