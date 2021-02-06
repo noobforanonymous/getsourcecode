@@ -1,7 +1,3 @@
-
-
-
-
 echo""
 echo""
 echo""
