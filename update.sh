@@ -43,5 +43,7 @@ sleep 3.0
 echo " "
 cd $HOME
 cd getsourcecode
-
+python3 sourcecode.py
+clear
+sleep 1.0
 
