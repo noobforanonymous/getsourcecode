@@ -46,4 +46,3 @@ cd getsourcecode
 python3 sourcecode.py
 clear
 sleep 1.0
-
