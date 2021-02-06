@@ -1,386 +1,44 @@
-echo""
-echo""
-echo""
-echo""
-echo""
-echo""
-echo""
-echo""
-echo""
-echo""
-echo""
-echo""
-echo""
-echo  '
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
-echo""
-echo""
-echo""
-echo""
-echo "               "/█1%...................../
-sleep 0.0
+red='\033[1;31m'
+clear='\033[0m'
+green='\033[1;32m'
+yellow='\033[1;33m'
 clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo  '
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
-echo " "
-echo " "
-echo " "
-echo " "
-echo "                "/█4%....................../
-sleep 0.0
-clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
 echo " "
 echo " "
 echo '
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
+               
+               
+figlet regaan '|lolcat
 echo " "
 echo " "
-echo " "
-echo " "
-echo "                "/█8%......................./
-sleep 0.0
+sleep 6.0
 clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo '
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
-echo " "
-echo " "
-echo " "
-echo " "
-echo "                "/██10%....................../
-sleep 0.0
+echo -e "$red                         wait..>$clear"
+sleep 2.0
 clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo '
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
-echo " "
-echo " "
-echo " "
-echo " "
-echo "                "/██12%....................../
-sleep 0.0
+echo -e "$red                         we are checking...>$clear"
+sleep 2.0
 clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo '
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
-echo " "
-echo " "
-echo " "
-echo " "
-echo "                "/███15%..................../
-sleep 0.0
+echo -e "$red                         any updates....>$clear"
+sleep 2.0
 clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo '
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
-echo " "
-echo " "
-echo " "
-echo " "
-echo "               "/█████19%..................../
-sleep 0.0
-clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo '
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
-echo " "
-echo " "
-echo " "
-echo " "
-echo "               "/██████28%..................../
-sleep 0.0
-clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo '
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
-echo " "
-echo " "
-echo " "
-echo " "
-echo "                "/████████30%................../
-sleep 0.0
-clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo '
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
-echo " "
-echo " "
-echo " "
-echo " "
-echo "                "/██████████40%................/
-sleep 0.0
-clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo '
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
-echo " "
-echo " "
-echo " "
-echo " "
-echo "                "/█████████████50%............./
-sleep 0.0
-clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo '
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
-echo " "
-echo " "
-echo " "
-echo " "
-echo "                "/████████████████60%........../
-sleep 0.0
-clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo '
-                     ┬  ┌─┐┌─┐┌┬┐┬┌┐┌┌─┐
-                     │  │ │├─┤ │││││││ ┬
-                     ┴─┘└─┘┴ ┴─┴┘┴┘└┘└─┘
-'
-echo " "
-echo " "
-echo " "
-echo " "
-echo "                "/███████████████████88%......./
+echo -e "$red                         wait now it's .....>$clear"
 sleep 2.0
 clear
 echo " "
 echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-clear
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
-clear
-echo ""
-echo ""
-figlet "REGAAN" | lolcat
-
-echo " "
-
-
-
-
+echo -e "$green                updating the getsourcecode please wait$clear"
+sleep 2.0
+cd $HOME
+rm -rf getsourcecode
 git clone https://github.com/noobforanonymous/getsourcecode
+clear
+echo " "
+echo -e "$yellow               getsourcecode has been updated check it now...$clear"
+sleep 3.0
+echo " "
+cd $HOME
+cd getsourcecode
+python3 sourcecode.py
+clear
+sleep 1.0
