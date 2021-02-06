@@ -5,13 +5,13 @@ red = '\033[31m'
 yellow = '\033[93m'
 clear = '\033[0m'
 bold = '\033[01m'
-print(red + """
+print(blue + """
 '||''|.   |''||''|    '||'  '||'     |       ..|'''.| '||'  |'   .|'''.|  
  ||   ||     ||        ||    ||     |||    .|'     '   || .'     ||..  '  
  ||''|'      ||        ||''''||    |  ||   ||          ||'|.      ''|||.  
  ||   |.     ||        ||    ||   .''''|.  '|.      .  ||  ||   .     '|| 
 .||.  '|'   .||.      .||.  .||. .|.  .||.  ''|....'  .||.  ||. |'....|'  
-""" + red)
+""" + blue)
 print(yellow + bold + "   <====YOUTUBE CHANNEL NAME RTHACKS====> \n" + clear)
 print(yellow+ bold + " <=========https://dev-regaanthamimprogramming.pantheonsite.io/=======> \n" + clear)
 
