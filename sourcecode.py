@@ -17,7 +17,7 @@ print(yellow+ bold + " <=========https://dev-regaanthamimprogramming.pantheonsit
 get_source = urlopen(input("enter url link or paste url link : "))
 rthacks = get_source.read()
 print(rthacks)
-print(red + """
+print(yellow + """
       
 |''||''| '||'  '||'     |     '|.   '|' '||'  |'   .|'''.|  
    ||     ||    ||     |||     |'|   |   || .'     ||..  '  
@@ -38,7 +38,7 @@ print(red + """
    ||     ||''''||   ||    ''|||.        ||    ||      || ||      ||  ||       
    ||     ||    ||   ||  .     '||       ||    '|.     || '|.     ||  ||       
   .||.   .||.  .||. .||. |'....|'       .||.    ''|...|'   ''|...|'  .||.....| 
-""" + red)
+""" + yellow)
 
 print(yellow + """
                                                                                          
