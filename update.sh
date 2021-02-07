@@ -6,7 +6,10 @@ clear
 echo " "
 echo " "
 echo '
-
+  __  ___ __  _   _       
+ /__)(_  / _ /_| /_| /| ) 
+/ (  /__(__)(  |(  |/ |/  
+                          
 '|lolcat
 echo " "
 echo " "
@@ -37,7 +40,4 @@ echo -e "$yellow              <=================== getsourcecode has been update
 sleep 3.0
 echo " "
 cd $HOME
-cd getsourcecode
-python3 sourcecode.py
 clear
-sleep 1.0
